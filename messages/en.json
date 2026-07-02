@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "Pavel Telitsyn — Full Stack Developer",
+    "description": "Portfolio and links of Pavel Telitsyn, Full Stack Developer. Freelance web development on Fiverr and Upwork."
+  },
+  "landing": {
+    "role": "Full Stack Developer",
+    "tiles": {
+      "fiverr": "Fiverr profile",
+      "upwork": "Upwork profile",
+      "portfolio": "My portfolio",
+      "donate": "Donate",
+      "everbiohacking": "EverBiohacking",
+      "devhouse": "DevHouse"
+    },
+    "sections": {
+      "projects": "Projects (personal)",
+      "links": "Links"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "youtube": "YouTube",
+      "whatsapp": "WhatsApp",
+      "telegram": "Telegram"
+    },
+    "language": "Switch language"
+  },
+  "portfolio": {
+    "role": "Full Stack Developer",
+    "nav": {
+      "home": "Home",
+      "about": "About Me",
+      "links": "Links"
+    },
+    "hero": {
+      "greeting": "Hi, I'm Pavel 👋",
+      "description": "I'm a Full Stack Developer based in Pavlodar. I build websites and web apps end-to-end — from design to deploy."
+    },
+    "stack": {
+      "title": "Stack",
+      "frontend": "TypeScript, React, Next.js, Tailwind CSS, TanStack Query, Zustand",
+      "backend": "Node.js, Next.js (API Routes, Server Actions), PostgreSQL, Prisma",
+      "tools": "Git, Docker, Vercel, Figma",
+      "also": "C++, Python"
+    },
+    "work": {
+      "title": "Selected Work",
+      "projects": {
+        "rknail": {
+          "title": "RK Nail Academy",
+          "description": "Nail academy landing page"
+        },
+        "everbiohacking": {
+          "title": "EverBiohacking",
+          "description": "Biohacking blog and personal project"
+        }
+      }
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "whatsapp": "WhatsApp",
+      "telegram": "Telegram",
+      "fiverr": "Fiverr",
+      "upwork": "Upwork"
+    }
+  },
+  "about": {
+    "nav": {
+      "home": "Home",
+      "portfolio": "Portfolio",
+      "about": "About Me",
+      "links": "Links"
+    },
+    "hero": {
+      "title": "My Journey",
+      "subtitle": "Passion for technology from a young age."
+    },
+    "childhood": {
+      "title": "From the very beginning",
+      "description": "I got introduced to IT in my early childhood. Studying at the 'Step' Computer Academy, I eagerly absorbed knowledge across various fields: programming, design, video editing, and robotics. This built a rock-solid foundation and a deep understanding of how technology works at all levels. My experience isn't just a couple of bootcamps—I've lived this from a young age, meaning you can fully rely on my technical expertise."
+    },
+    "studies": {
+      "title": "Formal Education & Continuous Growth",
+      "description": "I graduated with a degree in Computer Science Education from KAZGUU (Astana). This background gave me a strong structural foundation and the ability to break down complex technical concepts into simple terms. However, the tech world never stops evolving, so I focused heavily on deep self-education. I've completed intensive programs on Coursera and continually master new technologies and best practices. Lifelong learning is the core of my professional approach."
+    },
+    "work": {
+      "title": "Commercial Experience & Freelance",
+      "description": "I started my journey in commercial development with orders on Upwork and creating projects for local businesses in my city. I am currently active as a freelancer and planning to expand my horizons. My main specialization is building modern websites and web applications from scratch. I handle the entire lifecycle: from the initial idea and design to writing robust code and deploying the final product."
+    }
+  }
+}
