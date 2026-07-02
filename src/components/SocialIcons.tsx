@@ -6,7 +6,7 @@ type SocialKey = keyof typeof socialLinks;
 const order: SocialKey[] = [
   "instagram",
   "tiktok",
-  "youtube",
+  // "youtube",
   "whatsapp",
   "telegram",
 ];
