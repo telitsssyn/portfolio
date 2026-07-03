@@ -16,18 +16,18 @@ export function LinkTile({
 }: LinkTileProps) {
   const content = (
     <>
-      <span className="flex h-14 w-14 items-center justify-center rounded-full bg-neutral-800 transition-colors duration-200 group-hover:bg-neutral-700">
+      <span className="flex h-14 w-14 items-center justify-center rounded-full bg-neutral-900 transition-colors duration-300 group-hover:bg-neutral-800">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={iconSrc} alt="" width={28} height={28} className="h-7 w-7" />
+        <img src={iconSrc} alt="" width={28} height={28} className="h-7 w-7 transition-transform duration-300 group-hover:scale-110" />
       </span>
-      <span className="text-xs font-medium text-neutral-400 transition-colors duration-200 group-hover:text-neutral-200">
+      <span className="text-xs font-medium text-neutral-400 transition-colors duration-300 group-hover:text-neutral-200">
         {label}
       </span>
     </>
   );
 
   const className =
-    "group flex aspect-square flex-col items-center justify-center gap-2.5 rounded-2xl bg-neutral-900 transition-colors duration-200 hover:bg-neutral-800";
+    "group flex aspect-square flex-col items-center justify-center gap-2.5 rounded-2xl bg-neutral-950 transition-all duration-300 hover:bg-neutral-900 hover:scale-[1.02] active:scale-95";
 
   if (!external) {
     return (

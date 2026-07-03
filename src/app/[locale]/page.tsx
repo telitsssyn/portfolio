@@ -21,7 +21,7 @@ function Landing() {
 
   return (
     <main className="flex min-h-dvh items-center justify-center p-4">
-      <section className="relative w-[400px] max-w-full rounded-3xl bg-neutral-950 px-6 pt-12 pb-8">
+      <section className="relative w-[400px] max-w-full rounded-3xl bg-black border border-neutral-900 px-6 pt-12 pb-8">
         {/* Language toggle */}
         <div className="absolute right-5 top-5">
           <LanguageToggle />
