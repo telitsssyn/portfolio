@@ -1,8 +1,8 @@
 export const socialLinks = {
-  instagram: "https://www.instagram.com/telitsyn.pavel/",
-  tiktok: "https://www.tiktok.com/@everevernight",
+  instagram: "https://www.instagram.com/telitsyn.dev/",
+  tiktok: "https://www.tiktok.com/@telitsyn.dev",
   youtube: "https://www.youtube.com/@telitsssyn",
-  whatsapp: "https://wa.me/+7705672880",
+  whatsapp: "https://wa.me/+77074297309",
   telegram: "https://t.me/Telitsyn429",
   github: "https://github.com/telitsssyn",
   linkedin: "https://www.linkedin.com/in/telitsyn/",
@@ -13,7 +13,7 @@ export const tileLinks = {
   upwork: "https://www.upwork.com/",
   donate: "https://boosty.to/telitsyn",
   everbiohacking: "https://everbiohacking.com/",
-  devhouse: "https://t.me/+ZDjfiz-gOcI1ZThi",
+  devhouse: "#",
 } as const;
 
 export const profile = {
@@ -31,5 +31,10 @@ export const portfolioProjects = [
     id: "everbiohacking",
     url: "https://everbiohacking.com/",
     imageSrc: "/projects/everbiohacking.png",
+  },
+  {
+    id: "ideallife",
+    url: "https://rk-game-eta.vercel.app/",
+    imageSrc: "/projects/ideallife.png",
   },
 ] as const;

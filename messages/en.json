@@ -11,7 +11,7 @@
       "portfolio": "My portfolio",
       "donate": "Donate",
       "everbiohacking": "EverBiohacking",
-      "devhouse": "MSourse"
+      "devhouse": "Coming soon"
     },
     "sections": {
       "projects": "Projects (personal)",
@@ -30,12 +30,12 @@
     "role": "Full Stack Developer",
     "nav": {
       "home": "Home",
-      "about": "About Me",
+      "about": "About",
       "links": "Links"
     },
     "hero": {
       "greeting": "Hi, I'm Pavel 👋",
-      "description": "I'm a Full Stack Developer based in Pavlodar. I build websites and web apps end-to-end — from design to deploy."
+      "description": "I'm a Full Stack Developer based in Pavlodar. I build websites and apps end-to-end — from design to deploy and support."
     },
     "stack": {
       "title": "Stack",
@@ -45,7 +45,7 @@
       "also": "C++, Python"
     },
     "work": {
-      "title": "Selected Work",
+      "title": "Projects",
       "projects": {
         "rknail": {
           "title": "RK Nail Academy",
@@ -54,6 +54,10 @@
         "everbiohacking": {
           "title": "EverBiohacking",
           "description": "Biohacking blog and personal project"
+        },
+        "ideallife": {
+          "title": "Ideal Life",
+          "description": "Ideal Life project"
         }
       }
     },

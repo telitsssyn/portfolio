@@ -11,7 +11,7 @@
       "portfolio": "Мое портфолио",
       "donate": "Поддержать",
       "everbiohacking": "EverBiohacking",
-      "devhouse": "MSourse"
+      "devhouse": "Скоро будет"
     },
     "sections": {
       "projects": "Проекты (личные)",
@@ -30,12 +30,12 @@
     "role": "Full Stack разработчик",
     "nav": {
       "home": "Главная",
-      "about": "Обо мне",
+      "about": "Био",
       "links": "Ссылки"
     },
     "hero": {
       "greeting": "Привет, я Павел 👋",
-      "description": "Я Full Stack разработчик из Павлодара. Я создаю веб-сайты и веб-приложения под ключ — от дизайна до релиза."
+      "description": "Я Full Stack разработчик из Павлодара. Я создаю сайты и приложения под ключ — от дизайна до релиза и поддержки."
     },
     "stack": {
       "title": "Стек технологий",
@@ -45,7 +45,7 @@
       "also": "C++, Python"
     },
     "work": {
-      "title": "Избранные работы",
+      "title": "Проекты",
       "projects": {
         "rknail": {
           "title": "RK Nail Academy",
@@ -54,6 +54,10 @@
         "everbiohacking": {
           "title": "EverBiohacking",
           "description": "Блог о биохакинге и личный проект"
+        },
+        "ideallife": {
+          "title": "Ideal Life",
+          "description": "Проект Ideal Life"
         }
       }
     },
